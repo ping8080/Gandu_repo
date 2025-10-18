@@ -2,14 +2,14 @@ import os
 
 class Config(object):
     
-    BOT_TOKEN = "8012231272:AAFITViiSvq-2hXqbCaS4VBwHahNsim-woE"
+    BOT_TOKEN = ""
     
-    API_ID = 12475131
+    API_ID = 
     
-    API_HASH = "719171e38be5a1f500613837b79c536f"
-    ADMIN_ID = [12475131]
+    API_HASH = ""
+    ADMIN_ID = []
     
-    DB_URL = "mongodb+srv://tmglcd:kI1UijMr2jJXyOXY@cluster0.unjzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = ""
     
     DB_NAME = "MY_BOT_DB"
     
